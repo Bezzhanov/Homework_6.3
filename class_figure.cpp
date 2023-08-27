@@ -1,5 +1,5 @@
 #include "class_figure.h"
 #include <iostream>
 
-Figure::Figure() {name = "Ôèãóðà";};
+Figure::Figure() {name = "â€˜Ð¸Ð³ÑƒÑ€Ð°";};
 std::string Figure::get_name() { return this->name; };
